@@ -1,0 +1,8 @@
+platform :ios ,’8.0’
+use_frameworks! 
+target ‘loction’ do
+pod 'AMap3DMap'
+pod 'AMapSearch'
+pod 'AMapLocation'
+pod 'AMapNavi'
+end

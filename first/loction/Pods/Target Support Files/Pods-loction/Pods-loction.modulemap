@@ -1,0 +1,6 @@
+framework module Pods_loction {
+  umbrella header "Pods-loction-umbrella.h"
+
+  export *
+  module * { export * }
+}
